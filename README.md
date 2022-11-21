@@ -4,8 +4,8 @@ A Laravel wrapper for `ext-zmq` that exposes a `zmq` broadcast driver to publish
 
 ## Requirements
 
-- PHP 7.1
-- Laravel 5.5
+- PHP 8.1
+- Laravel 9.0
 - ZeroMQ
 - ext-zmq for PHP
 
